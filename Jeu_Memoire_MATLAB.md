@@ -48,6 +48,6 @@ Les contributions sont les bienvenues !
 
 ## Présentation du Jeu
 
-Voici une démonstration du projet :  
+Voici une démonstration du jeu :  
 [La vidéo de démonstration du jeu](https://drive.google.com/file/d/1eFZx2aTYanMBaBVXU6P2yKtfRupCEXMI/view?usp=sharing)
 
