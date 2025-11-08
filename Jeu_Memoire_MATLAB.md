@@ -43,3 +43,11 @@ Les contributions sont les bienvenues !
 3. Commit tes modifications (`git commit -m 'Ajouter une fonctionnalité'`).
 4. Push vers la branche (`git push origin feature/ma-fonctionnalite`).
 5. Ouvre une Pull Request.
+
+---
+
+## Présentation du Projet Jeu de mémoire interactif – MATLAB :
+
+Voici une démonstration du projet :  
+[La vidéo de démonstration du jeu](https://drive.google.com/file/d/1eFZx2aTYanMBaBVXU6P2yKtfRupCEXMI/view?usp=sharing)
+
