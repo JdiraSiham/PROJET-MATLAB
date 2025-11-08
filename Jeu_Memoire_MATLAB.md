@@ -1,6 +1,4 @@
-# Jeu de Mémoire MATLAB 🎮
-
-![MATLAB](https://img.shields.io/badge/MATLAB-2025-blue?logo=MATLAB)
+# Jeu de Mémoire MATLAB
 
 Un jeu de mémoire classique développé sous **MATLAB** avec une interface graphique **GUIDE**. Le joueur doit retrouver toutes les paires de cartes identiques le plus rapidement possible.
 
