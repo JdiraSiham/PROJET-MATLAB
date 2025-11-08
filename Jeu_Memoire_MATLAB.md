@@ -43,9 +43,3 @@ Les contributions sont les bienvenues !
 3. Commit tes modifications (`git commit -m 'Ajouter une fonctionnalité'`).
 4. Push vers la branche (`git push origin feature/ma-fonctionnalite`).
 5. Ouvre une Pull Request.
-
----
-
-## Licence
-
-MIT License © 2025
